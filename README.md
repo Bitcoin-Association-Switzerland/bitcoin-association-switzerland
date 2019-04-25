@@ -1,0 +1,1 @@
+# bitcoin-association-switzerland
