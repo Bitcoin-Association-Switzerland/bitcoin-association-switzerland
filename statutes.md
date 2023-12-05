@@ -2,7 +2,7 @@
 
 Pursuant to Articles 60 et sqq. Civil Code (Zivilgesetzbuch) an association is
 organized under the name „Bitcoin Association Switzerland“ (hereinafter the
-“Association”) with its domicile in Zurich.
+“Association”) with its domicile in Zug.
 
 ## Art. 1 Objective
 
