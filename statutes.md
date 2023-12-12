@@ -123,11 +123,13 @@ Association’s finances at the end of the business year.
 
 ## Art. 8 Dissolution
 
-The dissolution of the Association is only possible by unanimous resolution of the
+(1) The dissolution of the Association is only possible by unanimous resolution of the
 Members’ Assembly where more than half of the members are present. If no such
 quorum is present at the respective Members’ Assembly another Members’
 Assembly shall be summoned within one month where no quorum shall be
 necessary for the resolution.
+
+(2) In the event of the dissolution of the association, the association's assets must be allocated to one or more non-profit organisations that pursue the same or a similar purpose.
 
 ## Art 9 Language
 
