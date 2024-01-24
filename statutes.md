@@ -25,6 +25,8 @@ notification to the Board.
 (4) Dismissal of a member is permissible in cases of gross misconduct by
 resolution of the Members‘ Assembly.
 
+(5) Members automatically lose their membership when they haven't paid their last membership invoice 12 months after they received it. The board can extend the timeframe on an individual case.
+
 ## Art. 3 Bodies of the Association
 
 Bodies of the Association are
