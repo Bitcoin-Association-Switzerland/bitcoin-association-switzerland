@@ -129,11 +129,6 @@ quorum is present at the respective Members’ Assembly another Members’
 Assembly shall be summoned within one month where no quorum shall be
 necessary for the resolution.
 
-## Art 9 Language
-
-These statutes exist in the English and the German languages. In case of conflicts
-between the different versions the German version shall be controlling.
-
 Zürich, Ocotber 3, 2013
 
 Luzius Meisser
