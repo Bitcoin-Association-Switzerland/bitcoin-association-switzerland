@@ -6,7 +6,9 @@ organized under the name „Bitcoin Association Switzerland“ (hereinafter the
 
 ## Art. 1 Objective
 
-(1) Objective of the Association is to promote digital currencies.
+(1) Objective of the Association is to promote Bitcoin (BTC), as defined in the
+whitepaper "Bitcoin: A Peer-to-Peer Electronic Cash System" by Satoshi Nakamoto,
+in Switzerland.
 
 (2) The Association has no economic purpose and does not strive to make a
 profit.
